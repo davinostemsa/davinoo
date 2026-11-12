@@ -2,6 +2,7 @@ body {
     background-color: #0000ff
     font-family: "Times New Roman", Times, serif
     color: #000000
+}
 
 .kartu-profil {
     width: 300px; 
@@ -12,6 +13,7 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Efek bayangan */
     text-align: center; /* Menengahkan semua text di dalam kartu */
 }
+
 .kartu-profil img {
     width: 150px;
     border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran */
